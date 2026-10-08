@@ -92,11 +92,11 @@ The dashboard analyzes subscriber performance across different regions.
 
 The regional KPI table calculates:
 
-| KPI | Description |
-|---|---|
-| Subscribers | Number of unique subscribers |
-| Average Spend | Average subscriber spending |
-| Churn Rate | Percentage of subscribers who churned |
+| KPI           | Description                           |
+| ------------- | ------------------------------------- |
+| Subscribers   | Number of unique subscribers          |
+| Average Spend | Average subscriber spending           |
+| Churn Rate    | Percentage of subscribers who churned |
 
 The dashboard includes:
 
@@ -145,3 +145,11 @@ Example:
 ```text
 Completeness (%) =
 Non-null records / Total records × 100
+
+
+## Live Demo
+
+You can explore the deployed Streamlit dashboard here:
+
+[Open Subscriber Analytics Dashboard](YOUR_STREAMLIT_APP_URL)
+```
