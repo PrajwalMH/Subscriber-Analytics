@@ -147,9 +147,11 @@ Completeness (%) =
 Non-null records / Total records × 100
 
 
+
+```
+
 ## Live Demo
 
 You can explore the deployed Streamlit dashboard here:
 
 [Open Subscriber Analytics Dashboard](https://subscriber-analytics-c6wejiaagoqxnp3gt7g6k9.streamlit.app/)
-```
