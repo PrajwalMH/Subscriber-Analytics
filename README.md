@@ -151,5 +151,5 @@ Non-null records / Total records × 100
 
 You can explore the deployed Streamlit dashboard here:
 
-[Open Subscriber Analytics Dashboard](YOUR_STREAMLIT_APP_URL)
+[Open Subscriber Analytics Dashboard](https://subscriber-analytics-c6wejiaagoqxnp3gt7g6k9.streamlit.app/)
 ```
