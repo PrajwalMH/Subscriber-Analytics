@@ -586,15 +586,7 @@ df.to_csv(
 with st.sidebar:
 
     st.markdown(
-        "## 📊 Fifth AI"
-    )
-
-    st.markdown(
-        "### Subscriber Analytics"
-    )
-
-    st.caption(
-        "Day 5 • Fundamental Assignment"
+        "## 📊 Subscriber Analytics"
     )
 
     st.divider()
@@ -1735,7 +1727,6 @@ st.divider()
 
 st.caption(
 
-    "Fifth AI • Day 5 Fundamental Assignment  |  "
     "Subscriber Intelligence Dashboard  |  "
     "Prajwal Mrithyunjay Hulamani"
 
