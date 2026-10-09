@@ -1,4 +1,4 @@
 pandas
 streamlit
 plotly
-matplotlibgit add requirements.txt
+matplotlib
